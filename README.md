@@ -6,3 +6,4 @@ This project aims to process historically drawn numbers for the MegaMillion lott
 ## Goals
 - Provide useful statistical data
 - Win the mega million lottery :)
+- Have fun!
